@@ -7,9 +7,9 @@ Based on aspects of building location and construction, your goal is to predict 
 ## Problem Description
 We're trying to predict the ordinal variable damage_grade, which represents a level of damage to the building that was hit by the earthquake. There are 3 grades of the damage:
 
-1 represents low damage
-2 represents a medium amount of damage
-3 represents almost complete destruction
+1. represents low damage
+2. represents a medium amount of damage
+3. represents almost complete destruction
 
 ## Feature Description
 The dataset mainly consists of information on the buildings' structure and their legal ownership. Each row in the dataset represents a specific building in the region that was hit by Gorkha earthquake.
